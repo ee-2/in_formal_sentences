@@ -1,6 +1,6 @@
 # In_Formal Sentences
 
-This repository contains a dataset with sentences from a wide range of genres with human formality assessments on a *continuous* informal-formal scale. Each sentence has a score between +1 (most formal) and -1 (most informal).
+This repository contains a dataset with sentences from a wide range of genres with human formality assessments on a *continuous* formal-informal scale. Each sentence has a score between +1 (most formal) and -1 (most informal).
 
 We provide the following files:
 
@@ -27,5 +27,5 @@ When using the data, please cite:
 
 ## License
 
-Sentences with an ID containing *comments* are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) since they originate from a corpus restricted to non-commercial use only.
+Sentences with an id containing *comments* are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) since they originate from a corpus restricted to non-commercial use only.
 For the other sentences a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) applies.
