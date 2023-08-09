@@ -8,7 +8,7 @@ We provide the following files:
 + *in_formal_sentences.json*: the dataset with further information (e.g., reference, twitter id, or url)
 + *annotator_instructions.md*: the annotation guidelines in German
 
-Altogether, the dataset includes 3,000 German sentences from 12 domains (tweets, Reddit posts, subtitles, comments, emails, blogs, fiction, news, Wikipedia, political speeches, legal documents, and scientific texts) to cover the broad spectrum of formality. Formality annotations were obtained by crowdsourcing (data workers were German native speakers) and Best-worst scaling.
+Altogether, the dataset includes 3,000 German sentences from 12 domains (tweets, Reddit posts, subtitles, comments, emails, blogs, fiction, news, Wikipedia, political speeches, legal documents, and scientific texts) to cover the broad spectrum of formality. Formality annotations were obtained using crowdsourcing (data workers were German native speakers) and Best-worst scaling.
 
 ## Citation
 
