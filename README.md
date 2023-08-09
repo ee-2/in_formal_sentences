@@ -8,6 +8,7 @@ We provide the following files:
 + *in_formal_sentences.json*: the dataset with further information (e.g., reference, twitter id, or url)
 + *annotator_instructions.md*: the annotation guidelines in German
 
+Altogether, the dataset includes 3,000 German sentences from 12 domains (tweets, Reddit posts, subtitles, comments, emails, blogs, fiction, news, Wikipedia, political speeches, legal documents, and scientific texts) to cover the broad spectrum of formality. Formality annotations were obtained by crowdsourcing (data workers were German native speakers) and Best-worst scaling.
 
 ## Citation
 
@@ -19,9 +20,13 @@ When using the data, please cite:
     author = "Eder, Elisabeth  and
       	      Krieg-Holz, Ulrike  and
       	      Wiegand, Michael",
-    booktitle = "Findings of the Association of Computational Linguistics: EACL 2023",
+    booktitle = "Findings of the Association for Computational Linguistics: EACL 2023",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
     publisher = "Association for Computational Linguistics",
-    note = "to appear"
+    url = "https://aclanthology.org/2023.findings-eacl.42",
+    pages = "580--593"
 }
 ```
 
